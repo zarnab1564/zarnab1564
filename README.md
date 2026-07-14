@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zarnab1564/zarnab1564/main/banner.png" />
+  <img width="100%" src="https://github.com/user-attachments/assets/cbacd0a3-db91-4538-9d5d-c655c07492ea" />
 </div>
 
 <h1 align="center">
@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 
-QA Engineer with **3+ years of experience** delivering high-quality software across multiple industries. I don't just find bugs — I build systems that **prevent** them from reaching production.
+QA Engineer with **3+ years of experience** delivering high-quality software across multiple industries. I don't just find bugs. I build systems that **prevent** them from reaching production.
 
 🔍 Expert in **Manual Testing** — functional, regression, smoke, sanity, UAT, exploratory
 
