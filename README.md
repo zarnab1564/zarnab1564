@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zarnab1564/zarnab1564/main/banner.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/zarnab1564/zarnab1564/main/banner.png" />
 </div>
 
 <h1 align="center">
