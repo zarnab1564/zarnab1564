@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Zarnab&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20%C2%B7%20Manual%20%26%20Automation%20Testing&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Zarnab&fontSize=80&fontColor=58A6FF&animation=twinkling&fontAlignY=40&desc=QA%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descSize=18&descAlignY=60&descFontColor=8b949e)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Zarnab;QA+Engineer+%7C+3%2B+Years;Bug+Hunter+%F0%9F%94%8D;Manual+%26+Automation+Tester" alt="Typing SVG" />
