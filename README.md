@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/zarnab1564/zarnab1564/main/banner.svg" />
 </div>
 
 <h1 align="center">
@@ -26,14 +26,14 @@
 
 QA Engineer with **3+ years of experience** delivering high-quality software across multiple industries. I don't just find bugs — I build systems that **prevent** them from reaching production.
 
-- 🔍 Expert in **Manual Testing** — functional, regression, smoke, sanity, UAT, exploratory
-- 🤖 Hands-on **Automation** with Selenium (Python/Java) & Cypress (JS)
-- 🌐 **API Testing** using Postman with full collection management
-- ⚡ **Performance Testing** with JMeter — load, stress & spike testing
-- 🗄️ **Database Testing** — MySQL, PostgreSQL, MongoDB, Firebase
-- 🤖 **AI Testing** — prompt testing, LLM output validation, AI workflow QA
-- 🎮 Bonus: Python developer — built games using Pygame
-- 🌍 Available for **remote work globally**
+🔍 Expert in **Manual Testing** — functional, regression, smoke, sanity, UAT, exploratory
+🤖 Hands-on **Automation** with Selenium (Python/Java) & Cypress (JS)
+🌐 **API Testing** using Postman with full collection management
+⚡ **Performance Testing** with JMeter — load, stress & spike testing
+🗄️ **Database Testing** — MySQL, PostgreSQL, MongoDB, Firebase
+🤖 **AI Testing** — prompt testing, LLM output validation, AI workflow QA
+🎮 Bonus: Python developer — built games using Pygame
+🌍 Available for **remote work globally**
 
 ---
 
