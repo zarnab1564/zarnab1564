@@ -26,7 +26,7 @@ QA Engineer · 3+ Years · Manual & Automation Testing
 ## 👩‍💻 About Me
 
 QA Engineer with **3+ years of experience** delivering high-quality software
-across multiple industries. I don't just find bugs — I build systems that
+across multiple industries. I don't just find bugs. I build systems that
 **prevent** them from reaching production.
 
 - 🔍 Expert in **Manual Testing** — functional, regression, smoke, UAT
