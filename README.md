@@ -198,6 +198,13 @@ QA Engineer with **4+ years of experience** delivering high-quality software acr
 
 ---
 
+## 🎓 Education
+
+**BS Computer Science**
+Punjab University College of Information Technology (PUCIT)
+
+---
+
 ## 🤝 Let's Work Together
 
 > Available for freelance QA projects, contract testing engagements,
