@@ -34,9 +34,9 @@ QA Engineer with **4+ years of experience** delivering high-quality software acr
 
 ⚡ **Performance Testing** with JMeter — load, stress & spike testing
 
-🗄️ **Database Testing** MySQL, PostgreSQL, MongoDB, Firebase
+🗄️ **Database Testing**: MySQL, PostgreSQL, MongoDB, Firebase
 
-🤖 **AI Testing** Prompt testing, LLM output validation, AI workflow QA
+🤖 **AI Testing**: Prompt testing, LLM output validation, AI workflow QA
 
 🎮 Bonus: Python developer built games using Pygame
 
