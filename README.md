@@ -26,7 +26,7 @@
 
 QA Engineer with **4+ years of experience** delivering high-quality software across multiple industries. I don't just find bugs. I build systems that **prevent** them from reaching production.
 
-🔍 Expert in **Manual Testing** — functional, regression, smoke, sanity, UAT, exploratory
+🔍 Expert in **Manual Testing** functional, regression, smoke, sanity, UAT, exploratory
 
 🤖 Hands-on **Automation** with Selenium (Python/Java) & Cypress (JS)
 
@@ -34,11 +34,11 @@ QA Engineer with **4+ years of experience** delivering high-quality software acr
 
 ⚡ **Performance Testing** with JMeter — load, stress & spike testing
 
-🗄️ **Database Testing** — MySQL, PostgreSQL, MongoDB, Firebase
+🗄️ **Database Testing** MySQL, PostgreSQL, MongoDB, Firebase
 
-🤖 **AI Testing** — prompt testing, LLM output validation, AI workflow QA
+🤖 **AI Testing** Prompt testing, LLM output validation, AI workflow QA
 
-🎮 Bonus: Python developer — built games using Pygame
+🎮 Bonus: Python developer built games using Pygame
 
 🌍 Available for **remote work globally**
 
@@ -200,6 +200,7 @@ QA Engineer with **4+ years of experience** delivering high-quality software acr
 ## 🎓 Education
 
 **BS Computer Science**
+
 Punjab University College of Information Technology (PUCIT)
 
 ---
