@@ -200,9 +200,10 @@ QA Engineer with **4+ years of experience** delivering high-quality software acr
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarnab1564&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarnab1564&layout=compact&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zarnab1564&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarnab1564&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
